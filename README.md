@@ -10,9 +10,9 @@ Program pisany w Pythonie służy do tworzenia różnych rzeczy związanych z au
 
 ## Checklist funkcji:
 - Rozkłady jazdy - schemat od 2022 roku ✅
-- Rozkłady jazdy - schemat do 2022 roku ❌
-- Tabliczki z nazwą przystanku ❌
-- Tzw. "liniówki" - tabliczki z numerem linii na przystanku ❌
+- Rozkłady jazdy - schemat do 2022 roku ✅
+- Tabliczki z nazwą przystanku ✅
+- Tzw. "liniówki" - tabliczki z numerem linii na przystanku ✅
 - Wyświetlacze ❌
 
   ❌ = jeszcze nie wprowadzona funkcja;
